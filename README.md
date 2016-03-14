@@ -1,1 +1,1 @@
-ggj2016
+GGJ2016 Entry. Programmers: Bilal Yaylak, Cem Önem. Designer: Ozancan Altun.
